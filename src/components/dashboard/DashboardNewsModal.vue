@@ -6,7 +6,7 @@
     <p class="copy copy--gray copy--small">
       {{ data.fullDescription }}
     </p>
-    <BaseButton @click="$emit('close')">
+    <BaseButton @click.native="$emit('close')">
       Close information
     </BaseButton>
   </div>
