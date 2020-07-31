@@ -79,7 +79,11 @@
 
 <script>
   import BaseButton from './common/BaseButton';
-  import { appointmentModalMocks } from '@/mocks/mocks';
+  import {
+    appointmentModalMockSpecialties,
+    appointmentModalMockDoctors,
+    appointmentModalMockCities
+  } from '@/mocks/mocks';
 
   export default {
     name: 'AppHeaderAppointmentModal',
@@ -92,9 +96,9 @@
         specialty: null,
         name: null,
         date: null,
-        cities: appointmentModalMocks.cities,
-        doctors: appointmentModalMocks.doctors,
-        specialties: appointmentModalMocks.specialties
+        cities: appointmentModalMockCities,
+        doctors: appointmentModalMockDoctors,
+        specialties: appointmentModalMockSpecialties
       }
     },
     computed: {
