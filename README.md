@@ -3,6 +3,7 @@
 This app was created as a Vue 2 / Vue 3 experiment. I made exactly the same app using both version of the framework in July 2020.
 
 Link to Vue 3 without TypeScript repo https://github.com/BartoszBilejczyk/health-dashboard-vue3
+
 Link to Vue 3 with TypeScript repo https://github.com/BartoszBilejczyk/health-dashboard-vue3-ts
 
 ## Project setup
