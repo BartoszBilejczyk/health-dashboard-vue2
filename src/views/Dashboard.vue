@@ -143,7 +143,7 @@
             date,
             status: null,
             doctor: {
-              photo: 'user',
+              photo: 'https://randomuser.me/api/portraits/thumb/women/95.jpg',
               name,
               specialty
             }
