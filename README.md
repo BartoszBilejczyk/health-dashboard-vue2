@@ -6,9 +6,10 @@ Link to Vue 3 without TypeScript repo https://github.com/BartoszBilejczyk/health
 
 Link to Vue 3 with TypeScript repo https://github.com/BartoszBilejczyk/health-dashboard-vue3-ts
 
-Live demo: 
+<a href="https://health-dashboard-vue2.netlify.app/" target="_blank">Live demo</a> 
 
-<img src="https://github.com/BartoszBilejczyk/health-dashboard-vue2/src/assets/images/demo.jpg">
+Screenshot:
+<img src="https://github.com/BartoszBilejczyk/health-dashboard-vue2/blob/master/src/assets/images/demo.jpg?raw=true">
 
 ## Project setup
 ```
